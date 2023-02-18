@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: convo
+Version: 0.1.0
+Summary: Medium-agnostic conversation wrangler
+Home-page: https://github.com/jeamland/convo
+Author: Benno Rice
+Author-email: benno@jeamland.net
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
+
+Convo - The medium-agnostic conversation framework
+================================================== 
+
+Convo is designed to allow you to conduct conversations with a bot. These
+conversations can be for any purpose. Conversations can be designed to
+yield information for use in performing tasks or they could just be for fun.
+
+
